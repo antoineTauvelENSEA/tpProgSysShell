@@ -1,0 +1,6 @@
+# ninja log v5
+58	77	1672993170053299887	tpProgSysShell	4e4fc24203a1fb46
+0	58	1672993170033309887	CMakeFiles/tpProgSysShell.dir/main.c.o	e401aa4c8bdddf93
+3	97	1672993430319104999	CMakeFiles/tpProgSysShell.dir/displayFunctions.c.o	8e162059074b5ea7
+0	102	1672993430323102999	CMakeFiles/tpProgSysShell.dir/main.c.o	e401aa4c8bdddf93
+102	122	1672993430343093000	tpProgSysShell	692b7294f9b287d5
